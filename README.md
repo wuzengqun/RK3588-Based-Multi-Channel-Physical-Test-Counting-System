@@ -8,7 +8,9 @@ https://github.com/user-attachments/assets/b6fbceb8-f247-4e49-8748-1a7d1db5948d
 
 
 
-<img width="865" height="648" alt="image" src="https://github.com/user-attachments/assets/c017c6ed-d0a3-4261-be20-15042f781b07" />
+<img width="865" height="648" alt="image" src="https://github.com/user-attachments/assets/c017c6ed-d0a3-4261-be20-15042f781b07" />  
+
+
 Usage Instructions:
 一、Flashing the OS Image  
 Prerequisites: TF card (8GB or larger), TF card reader, official Ubuntu image.  

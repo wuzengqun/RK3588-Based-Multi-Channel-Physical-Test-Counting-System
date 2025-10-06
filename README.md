@@ -13,7 +13,7 @@ Usage Instructions:
 一、Flashing the OS Image  
 Prerequisites: TF card (8GB or larger), TF card reader, official Ubuntu image.  
   ① Download the official OS image from the manufacturer's website：http://www.orangepi.cn/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-pi-5.html  
-  ② After the download is complete, use the image flashing tool included in the official package to flash the image onto the TF card.
+  ② After the download is complete, use the image flashing tool included in the official package to flash the image onto the TF card.  
 
 
 二、Transferring This Repository Code to the Development Board  

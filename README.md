@@ -37,7 +37,7 @@ Execute the following commands in the terminal:
 
 
 
-#########################################################################################################################
-按照上述流程不行的，参考文档：
+#########################################################################################################  
+If the above procedure does not work, please consult the documentation:  
 
 [rk3588多路体测系统文档.docx](https://github.com/user-attachments/files/22723281/rk3588.docx)

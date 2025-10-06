@@ -35,3 +35,9 @@ Execute the following commands in the terminal:
   To compile the code:bash build-linux_RK3588.sh  
   To run the application: ./rknn_yolov11pose_demo  
 
+
+
+#########################################################################################################################
+按照上述流程不行的，参考文档：
+
+[rk3588多路体测系统文档.docx](https://github.com/user-attachments/files/22723281/rk3588.docx)

@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/b6fbceb8-f247-4e49-8748-1a7d1db5948d
 <img width="865" height="648" alt="image" src="https://github.com/user-attachments/assets/c017c6ed-d0a3-4261-be20-15042f781b07" />  
 
 
-Usage Instructions:
+Usage Instructions:  
 一、Flashing the OS Image  
 Prerequisites: TF card (8GB or larger), TF card reader, official Ubuntu image.  
   ① Download the official OS image from the manufacturer's website：http://www.orangepi.cn/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-pi-5.html  

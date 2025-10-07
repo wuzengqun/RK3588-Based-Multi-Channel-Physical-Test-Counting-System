@@ -4,9 +4,14 @@ This repository contains a multi-channel fitness rep counter system implemented 
 
 
 演示视频:  
-<video src="https://github.com/user-attachments/assets/b6fbceb8-f247-4e49-8748-1a7d1db5948d" controls width="800">
+<video src="https://github.com/user-attachments/assets/e71c0e9c-5271-4e9c-b2fb-d95266a63476" controls width="800">
   Your browser does not support the video tag.
 </video>  
+
+
+
+
+
 
 
 <img width="865" height="648" alt="展示" src="https://github.com/user-attachments/assets/07361ca2-8807-49b0-8b96-7c25d30a1d3f" />  

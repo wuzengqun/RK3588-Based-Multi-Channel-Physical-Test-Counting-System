@@ -53,8 +53,17 @@ Step 4:Code Compilation and Execution
 
 
 
+Important Notes:  
+---
+If the above procedure does not work, please consult the documentation:    
+[rk3588多路体测系统文档.docx](https://github.com/user-attachments/files/22723281/rk3588.docx)  
 
-#########################################################################################################  
-If the above procedure does not work, please consult the documentation:  
 
-[rk3588多路体测系统文档.docx](https://github.com/user-attachments/files/22723281/rk3588.docx)
+
+
+
+Acknowledgements
+---
+This project is based on  
+ ● https://github.com/cqu20160901/yolov8pose_onn_rknn_horizon_tensorRT_dfl    //yolo模型转换与部署  
+Thanks to the original authors for their work!  

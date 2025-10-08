@@ -22,9 +22,9 @@ Prerequisites: One Ethernet cable, MobaXterm software.
 
 Step 3:Essential Environment Setup  
 Execute the following commands in the terminal:  
-①sudo apt-get update  
-②sudo apt-get install -y cmake  
-③sudo apt-get install -y qtbase5-dev qtdeclarative5-dev qttools5-dev  
+  ①sudo apt-get update  
+  ②sudo apt-get install -y cmake  
+  ③sudo apt-get install -y qtbase5-dev qtdeclarative5-dev qttools5-dev  
 
 
 Step 4:Code Compilation and Execution  

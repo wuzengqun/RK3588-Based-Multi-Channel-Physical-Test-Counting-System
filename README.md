@@ -41,15 +41,15 @@ Step 4:Code Compilation and Execution
 
 演示视频:  
 ---
-<video src="https://github.com/user-attachments/assets/e71c0e9c-5271-4e9c-b2fb-d95266a63476" controls width="800">
+<video src="https://github.com/user-attachments/assets/e71c0e9c-5271-4e9c-b2fb-d95266a63476" controls width="400">
   Your browser does not support the video tag.
 </video>  
 
 
 
-
+<div align="center">
 <img width="433" height="324" alt="image" src="https://github.com/user-attachments/assets/e7ebf89f-1819-4100-a079-b6bc3dcceeb7" />  
-
+</div>
 
 
 

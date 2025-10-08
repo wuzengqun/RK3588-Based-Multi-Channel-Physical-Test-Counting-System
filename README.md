@@ -3,7 +3,7 @@
 This repository contains a multi-channel fitness rep counter system implemented on Orange Pi (RK3588) using YOLOv11-pose and QT. The UI is straightforward, as the author has no prior QT experience and used the most basic implementations.Welcome everyone to join in optimizing this project.
 
 
-<img width="865" height="648" alt="展示" src="https://github.com/user-attachments/assets/07361ca2-8807-49b0-8b96-7c25d30a1d3f" />  
+<img width="433" height="324" alt="展示" src="https://github.com/user-attachments/assets/07361ca2-8807-49b0-8b96-7c25d30a1d3f" />  
 
 
 Usage Instructions
@@ -46,7 +46,7 @@ Step 4:Code Compilation and Execution
 
 
 
-<img width="865" height="648" alt="image" src="https://github.com/user-attachments/assets/e7ebf89f-1819-4100-a079-b6bc3dcceeb7" />  
+<img width="433" height="324" alt="image" src="https://github.com/user-attachments/assets/e7ebf89f-1819-4100-a079-b6bc3dcceeb7" />  
 
 
 

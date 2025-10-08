@@ -1,29 +1,12 @@
-# RK3588-Based-Multi-Channel-Physical-Test-Counting-System
+# RK3588-Based-Multi-Channel-Physical-Test-Counting-System  
+---
 This repository contains a multi-channel fitness rep counter system implemented on Orange Pi (RK3588) using YOLOv11-pose and QT. The UI is straightforward, as the author has no prior QT experience and used the most basic implementations.Welcome everyone to join in optimizing this project.
 
 
 
-演示视频:  
-<video src="https://github.com/user-attachments/assets/e71c0e9c-5271-4e9c-b2fb-d95266a63476" controls width="800">
-  Your browser does not support the video tag.
-</video>  
 
-
-
-
-
-
-
-<img width="865" height="648" alt="展示" src="https://github.com/user-attachments/assets/07361ca2-8807-49b0-8b96-7c25d30a1d3f" />  
-
-
-<img width="865" height="648" alt="image" src="https://github.com/user-attachments/assets/e7ebf89f-1819-4100-a079-b6bc3dcceeb7" />  
-
-
-
-
-
-Usage Instructions:  
+Usage Instructions
+---
 一、Flashing the OS Image  
 Prerequisites: TF card (8GB or larger), TF card reader, official Ubuntu image.  
   ① Download the official OS image from the manufacturer's website：http://www.orangepi.cn/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-pi-5.html  
@@ -46,6 +29,33 @@ Execute the following commands in the terminal:
 四、Code Compilation and Execution  
   To compile the code:bash build-linux_RK3588.sh  
   To run the application: ./rknn_yolov11pose_demo  
+
+
+
+
+
+
+
+演示视频:  
+---
+<video src="https://github.com/user-attachments/assets/e71c0e9c-5271-4e9c-b2fb-d95266a63476" controls width="800">
+  Your browser does not support the video tag.
+</video>  
+
+
+
+
+
+
+
+<img width="865" height="648" alt="展示" src="https://github.com/user-attachments/assets/07361ca2-8807-49b0-8b96-7c25d30a1d3f" />  
+
+
+<img width="865" height="648" alt="image" src="https://github.com/user-attachments/assets/e7ebf89f-1819-4100-a079-b6bc3dcceeb7" />  
+
+
+
+
 
 
 

@@ -10,10 +10,10 @@ This repository contains a multi-channel fitness rep counter system implemented 
 
 Usage Instructions
 ---
-Step 1:Flashing the OS Image  
+Step 1: Flashing the OS Image  
 Prerequisites: TF card (8GB or larger), TF card reader, official Ubuntu image.  
-　● Download the official OS image from the manufacturer's website：http://www.orangepi.cn/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-pi-5.html  
-　● After the download is complete, use the image flashing tool included in the official package to flash the image onto the TF card.  
+  - Download the official OS image from the manufacturer's website：http://www.orangepi.cn/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-pi-5.html  
+  - After the download is complete, use the image flashing tool included in the official package to flash the image onto the TF card.
 
 
 Step 2:Transferring This Repository Code to the Development Board  

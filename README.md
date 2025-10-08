@@ -16,20 +16,20 @@ Prerequisites: TF card (8GB or larger), TF card reader, official Ubuntu image.
 
 Step 2:Transferring This Repository Code to the Development Board  
 Prerequisites: One Ethernet cable, MobaXterm software.  
-    ①Connect the development board directly to your computer using the Ethernet cable. Configure the network settings on both sides to ensure they are on the same subnet and can ping each other successfully.  
-    ② Open the MobaXterm software, establish an SSH connection to the development board, and transfer the project to it.  
+  ① Connect the development board directly to your computer using the Ethernet cable. Configure the network settings on both sides to ensure they are on the same subnet and can ping each other successfully.  
+  ② Open the MobaXterm software, establish an SSH connection to the development board, and transfer the project to it.  
 
 
 Step 3:Essential Environment Setup  
 Execute the following commands in the terminal:  
-  ①sudo apt-get update  
-  ②sudo apt-get install -y cmake  
-  ③sudo apt-get install -y qtbase5-dev qtdeclarative5-dev qttools5-dev  
+  ① sudo apt-get update  
+  ② sudo apt-get install -y cmake  
+  ③ sudo apt-get install -y qtbase5-dev qtdeclarative5-dev qttools5-dev  
 
 
 Step 4:Code Compilation and Execution  
-  To compile the code:bash build-linux_RK3588.sh  
-  To run the application: ./rknn_yolov11pose_demo  
+  ① To compile the code:bash build-linux_RK3588.sh  
+  ② To run the application: ./rknn_yolov11pose_demo  
 
 
 

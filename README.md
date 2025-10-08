@@ -14,20 +14,23 @@ Step 1: Flashing the OS Image
 Prerequisites: TF card (8GB or larger), TF card reader, official Ubuntu image.  
   - Download the official OS image from the manufacturer's website：http://www.orangepi.cn/html/hardWare/computerAndMicrocontrollers/service-and-support/Orange-pi-5.html  
   - After the download is complete, use the image flashing tool included in the official package to flash the image onto the TF card.
-
+<br>
+<br>
 
 Step 2:Transferring This Repository Code to the Development Board  
 Prerequisites: One Ethernet cable, MobaXterm software.  
   - Connect the development board directly to your computer using the Ethernet cable. Configure the network settings on both sides to ensure they are on the same subnet and can ping each other successfully.  
   - Open the MobaXterm software, establish an SSH connection to the development board, and transfer the project to it.  
-
+<br>
+<br>
 
 Step 3:Essential Environment Setup  
 Execute the following commands in the terminal:  
   - sudo apt-get update  
   - sudo apt-get install -y cmake  
   - sudo apt-get install -y qtbase5-dev qtdeclarative5-dev qttools5-dev  
-
+<br>
+<br>
 
 Step 4:Code Compilation and Execution  
   - To compile the code:bash build-linux_RK3588.sh  
